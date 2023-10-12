@@ -51,11 +51,10 @@ body{
     margin-bottom: 10px;
 
     padding: 20px;
-    opacity: 0;
-    border-top: 15px solid #000000be;
+    opacity: 0; 
     animation: easeIn 0.5s forwards;
     -webkit-animation: easeIn 1.5s forwards;
-    box-shadow: 0 4px 14px #12121279;
+    box-shadow: 0 4px 14px #12121235;
 }
 .jc-space-a{
     justify-content: space-around;
